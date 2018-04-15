@@ -1,0 +1,23 @@
+d:\visual studio 2013\Projects\TP1\CU\bin\Debug\CU.exe.config
+J:\Electiva de programación\Clase 4 - 04-04-2018\TP1\CU\bin\Debug\CU.exe.config
+D:\TP1\CU\bin\Debug\CU.exe.config
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FAgregarInf.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FDescGraves.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FDescLeves.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FormCrearProp.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FormCrearSuceso.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FormCrearVehi.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FormPpal.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.Properties.Resources.resources
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\bin\Debug\CU.exe.config
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\bin\Debug\CU.exe
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\bin\Debug\CU.pdb
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\bin\Debug\CN.dll
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\bin\Debug\CN.pdb
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.csproj.CopyComplete
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.exe
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.pdb
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CU\obj\Debug\CU.FModificarInf.resources

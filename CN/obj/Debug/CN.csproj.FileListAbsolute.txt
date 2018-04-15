@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\obj\Debug\CN.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\obj\Debug\CN.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\bin\Debug\CN.dll
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\bin\Debug\CN.pdb
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\obj\Debug\CN.dll
+C:\Users\Administrador\Documents\FACULTAD\Prog Avanzada\TP1\CN\obj\Debug\CN.pdb
